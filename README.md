@@ -1,2 +1,0 @@
-# AppTest
-test first app
